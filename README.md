@@ -1,10 +1,14 @@
 #### steal-tools build bug
 
-Bug with .mustache/stache views and multiple bundles
+Bug with .mustache/stache views and multiple bundles.
 
+Run:
+
+```
  > npm install
  > bower install
  > grunt build
+ ```
 
  and get the error:
  ```
