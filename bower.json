@@ -1,0 +1,25 @@
+{
+  "name": "bbooks-reader_front-app",
+  "version": "0.0.0",
+  "homepage": "",
+  "authors": [
+    "justin@bitovi.com"
+  ],
+  "description": "Bbooks CanJS Apps",
+  "main": "dist/bundle/main.js",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "canjs": "git://github.com/bitovi/canjs.git#minor",
+    "jquery": "~2.1.1"
+  }
+}
